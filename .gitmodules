@@ -1,0 +1,6 @@
+[submodule "dependecies"]
+	path = dependecies
+	url = https://github.com/madler/zlib.git
+[submodule "dependencies/zlib"]
+	path = dependencies/zlib
+	url = https://github.com/madler/zlib.git
